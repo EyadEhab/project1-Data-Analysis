@@ -1,0 +1,33 @@
+Timestamp,Gender,"On a scale of 1 to 5, how stressed do you feel during exam season? (1 = Not stressed, 5 = Extremely stressed)",What are the primary sources of your stress during exams?,How many hours per day do you spend studying during exam season? (numbers only),Do you use any stress management techniques? ,"If yes, what techniques do you use? (Multiple choice: Meditation, exercise, talking to friends, etc.)"
+3/8/2025 1:06:22,Male,3,time management,3.0,No,talking to friends
+3/8/2025 1:18:38,Male,3,"Academic workload, time management",5.0,No,
+3/10/2025 2:50:03,Male,4,family expectations,,No,
+3/12/2025 16:06:31,Male,4,family expectations,4.0,Yes,Meditation
+3/12/2025 16:21:17,Male,3,"time management, family expectations",6.0,Yes,"exercise, talking to friends"
+3/12/2025 16:42:12,Male,4,"Academic workload, time management",5.0,No,"exercise, talking to friends"
+3/17/2025 11:45:03,Female,3,"time management, family expectations",5.0,No,
+3/17/2025 11:45:22,Female,3,"Academic workload, time management, family expectations",4.0,No,
+3/17/2025 11:45:45,Female,5,"Academic workload, time management, family expectations",4.0,Yes,"exercise, talking to friends"
+3/17/2025 11:46:06,Female,1,"time management, family expectations",4.0,Yes,exercise
+3/17/2025 11:46:30,Female,2,family expectations,6.0,No,
+3/17/2025 11:46:55,Female,4,Academic workload,5.0,No,
+3/17/2025 11:47:17,Female,2,time management,5.0,No,
+3/17/2025 11:47:34,Male,1,Academic workload,7.0,No,
+3/17/2025 11:48:21,Male,3,"time management, family expectations",6.0,Yes,talking to friends
+3/17/2025 11:48:39,Male,2,Academic workload,6.0,Yes,exercise
+3/17/2025 11:48:59,Male,5,"Academic workload, time management, family expectations",3.0,No,
+3/17/2025 11:49:28,Female,3,family expectations,7.0,Yes,talking to friends
+3/17/2025 11:50:02,Male,4,"Academic workload, time management, family expectations",8.0,Yes,"Meditation, exercise, talking to friends"
+3/18/2025 1:15:35,Female,4,"time management, family expectations",2.0,No,"exercise, talking to friends"
+3/18/2025 1:15:45,Female,4,"time management, family expectations",4.0,No,
+3/18/2025 1:16:02,Female,1,"time management, family expectations",5.0,Yes,Meditation
+3/18/2025 1:16:18,Female,5,"time management, family expectations",5.0,Yes,talking to friends
+3/18/2025 1:16:27,Female,3,"Academic workload, time management",5.0,No,
+3/18/2025 1:16:37,Female,3,family expectations,7.0,No,
+3/18/2025 1:16:49,Female,3,family expectations,2.0,Yes,exercise
+3/18/2025 1:17:19,Male,1,time management,1.0,No,
+3/18/2025 1:17:27,Male,2,family expectations,2.0,No,
+3/18/2025 1:17:43,Male,3,family expectations,4.0,Yes,exercise
+3/18/2025 1:17:55,Male,5,time management,6.0,Yes,exercise
+3/18/2025 1:18:15,Male,5,"time management, family expectations",2.0,No,
+3/18/2025 1:18:30,Female,5,family expectations,3.0,No,
